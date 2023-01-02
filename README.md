@@ -1,6 +1,6 @@
 # TermuxString
 
-- Download Script File [Click Here]()
+- Download Script File [Click Here](https://github.com/Al3x-GitHub/TermuxString/releases/download/V0.2/session.py)
 
 Termux Telethon String Sessions Generate Commands
 
